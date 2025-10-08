@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/tp5-lenguajes-iv/static/css/main.e6c13ad2.css",
-    "main.js": "/tp5-lenguajes-iv/static/js/main.0e66a8b5.js",
+    "main.js": "/tp5-lenguajes-iv/static/js/main.992c459b.js",
     "static/js/453.f88e60ce.chunk.js": "/tp5-lenguajes-iv/static/js/453.f88e60ce.chunk.js",
     "static/media/suite-premium.png": "/tp5-lenguajes-iv/static/media/suite-premium.a8923726547e5fdc9b4d.png",
     "static/media/habitacion-doble.png": "/tp5-lenguajes-iv/static/media/habitacion-doble.994a5d6d61d214039be5.png",
     "static/media/habitacion-simple.png": "/tp5-lenguajes-iv/static/media/habitacion-simple.2fb60e1c91835c85ba84.png",
     "index.html": "/tp5-lenguajes-iv/index.html",
     "main.e6c13ad2.css.map": "/tp5-lenguajes-iv/static/css/main.e6c13ad2.css.map",
-    "main.0e66a8b5.js.map": "/tp5-lenguajes-iv/static/js/main.0e66a8b5.js.map",
+    "main.992c459b.js.map": "/tp5-lenguajes-iv/static/js/main.992c459b.js.map",
     "453.f88e60ce.chunk.js.map": "/tp5-lenguajes-iv/static/js/453.f88e60ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.0e66a8b5.js"
+    "static/js/main.992c459b.js"
   ]
 }
